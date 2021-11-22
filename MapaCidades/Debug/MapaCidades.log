@@ -1,0 +1,6 @@
+﻿  MapaCidades.cpp
+C:\Users\ricar\Documents\GitHub\Pessoal\PEDA\MapaCidades\MapaCidades\MapaCidades.cpp(35,41): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\ricar\Documents\GitHub\Pessoal\PEDA\MapaCidades\MapaCidades\MapaCidades.cpp(36,42): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\ricar\Documents\GitHub\Pessoal\PEDA\MapaCidades\MapaCidades\MapaCidades.cpp(47,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\ricar\Documents\GitHub\Pessoal\PEDA\MapaCidades\MapaCidades\MapaCidades.cpp(48,39): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  MapaCidades.vcxproj -> C:\Users\ricar\Documents\GitHub\Pessoal\PEDA\MapaCidades\Debug\MapaCidades.exe
