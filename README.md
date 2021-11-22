@@ -8,14 +8,14 @@ trabalho é implementar o cálculo de menor distância com Dijkstra, utilizando 
 ## Grafo
 
 <figure>
-  <img src="" alt="Grafo fornecido">
+  <img src="https://github.com/RicardoKurashiki/PEDA2021-MapaCidades/blob/main/p2-cidades.png" alt="Grafo fornecido">
   <figcaption>Grafo fornecido pelo professor, com algumas cidades e suas ligações e distâncias.</figcaption>
 </figure>
 
 ## Resultado
 
 <figure>
-  <img src="" alt="Solução encontrada">
+  <img src="https://github.com/RicardoKurashiki/PEDA2021-MapaCidades/blob/main/resultado-obtido.png" alt="Solução encontrada">
   <figcaption>Solução encontrada pelo algoritmo criado. Na imagem, existe um teste entre a cidade de Curitiba até a cidade de São Paulo, onde o resultado obtido foi uma distância de 407.1 quilômetros, onde sai de Curitiba, passa por Registro e finalmente chega em São Paulo.</figcaption>
 </figure>
 
